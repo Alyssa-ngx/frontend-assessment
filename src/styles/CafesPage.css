@@ -1,0 +1,31 @@
+.cafes-page {
+  padding: 20px;
+}
+
+.cafes-title {
+  margin-bottom: 20px;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.cafes-filter-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.cafes-filter-input {
+  width: 300px;
+}
+
+.cafes-table-container {
+  margin-top: 20px;
+}
+
+.cafes-logo {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
