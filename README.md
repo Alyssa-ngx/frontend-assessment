@@ -1,4 +1,4 @@
-# React
+# Frontend assessment
 
 #Prerequites
 1. Install Dependencies
